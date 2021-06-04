@@ -43,7 +43,7 @@ zstyle ':prezto:load' pmodule \
   'history-substring-search' \
   'autosuggestions' \
   'archive' \
-  'prompt'
+  'docker'
 
 #
 # Autosuggestions
