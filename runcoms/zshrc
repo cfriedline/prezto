@@ -64,6 +64,6 @@ eval "$(register-python-argcomplete dx | sed 's/-o default//')"
 
 alias github_sema4="export GIT_SSH_COMMAND='ssh -i ~/.ssh/id_rsa_sema4'"
 alias github_diamondage="export GIT_SSH_COMMAND='ssh -i ~/.ssh/id_rsa_cfriedline_diamondage'"
-alias github_cfriedline="export GIT_SSH_COMMAND='ssh -i ~/.ssh/~/.ssh/id_rsa_chrismac'"
+alias github_cfriedline="export GIT_SSH_COMMAND='ssh -i ~/.ssh/id_rsa_chrismac'"
 
 eval "$(starship init zsh)"
